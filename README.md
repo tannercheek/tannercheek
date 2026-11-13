@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Tanner Cheek
+ 
+Computer Science graduate (B.S., Portland State University) in Portland, OR, looking for a help desk or IT support role, with security as the long-term goal.
+
+## Get in touch
+ 
+- Email: hello.tannercheek@gmail.com
+- LinkedIn: [linkedin.com/in/tannercheek](https://linkedin.com/in/tannercheek)
+- Website: [tannercheek.com](https://tannercheek.com)
